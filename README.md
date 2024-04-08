@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l4lagar70
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning programing in C# and GDscript
+- 🌱 I’m currently learning programing in C#, Java, Python and GDscript
 - 💞️ @RealRamonRS student in MonteCastelo (Vigo, Galicia, Spain)
 
 
