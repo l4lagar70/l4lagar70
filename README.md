@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @l4lagar70
-- 👀 I’m interested in game development
+- 👀 I like game development and cybersecurity
 - 🌱 I’m currently learning programing in C#, Java, Python and GDscript
 - 💞️ @RealRamonRS student in MonteCastelo (Vigo, Galicia, Spain)
 
